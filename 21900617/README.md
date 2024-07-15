@@ -1,3 +1,5 @@
 # chanhk-im    
     
-hihi   
+hihellohi   
+
+conflict 해결!
