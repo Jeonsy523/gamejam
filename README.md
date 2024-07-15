@@ -2,5 +2,5 @@
 ---
 
 /root    
-  ᄂ🗂️ (name)    
+  ᄂ🗂️ (student number)    
     ᄂ📃 (README.md)
